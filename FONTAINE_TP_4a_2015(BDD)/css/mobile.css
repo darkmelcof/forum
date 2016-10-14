@@ -1,0 +1,53 @@
+
+body{
+	background-color: #2E3032;
+	color: white; 
+	text-align: center;
+}
+
+h1,h2,h3,p{
+	color: white;
+	text-align: center;
+}
+
+a{
+	color: orange;
+	text-decoration: none;
+}
+
+.col-md-8{
+	/*background-color: rgba(223,223,223,0.1);*/
+}
+.form-group .row{
+	margin-right: 0;
+	margin-left: 0;
+}
+.entete{
+	background-color: rgba(223,223,223,0.1);
+}
+
+.panel-body p, .panel-footer p, .panel-body span{
+	color: black;
+}
+.panel-body p{
+	/*max-height: 4em;
+	overflow: hidden;*/
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.panel-title{
+	text-align: left
+}
+.panel-footer p{
+	text-align: right;
+}
+.panel-body span p{
+	text-align: right;
+}
+.modif{
+	background-color: rgba(0,0,255,0.7);
+}
+input[type="file"]{
+	display: inline;
+}

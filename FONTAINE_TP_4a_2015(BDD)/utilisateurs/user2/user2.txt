@@ -1,0 +1,10 @@
+nom => dude
+prenom => 
+age => 
+mail => adza
+mail2 => boom
+login => user2
+mdp => a
+droits => Aucun
+valide => Oui
+admin => Non

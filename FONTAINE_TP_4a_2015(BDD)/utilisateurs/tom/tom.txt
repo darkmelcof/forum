@@ -1,0 +1,10 @@
+nom => 
+prenom => 
+age => 
+mail => tom@hotmail.com
+mail2 => 
+login => tom
+mdp => dez
+droits => Aucun
+valide => Oui
+admin => Non

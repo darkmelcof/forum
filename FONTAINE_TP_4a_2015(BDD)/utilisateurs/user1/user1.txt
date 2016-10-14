@@ -1,0 +1,10 @@
+nom => 
+prenom => 
+age => 
+mail => u
+mail2 => 
+login => user1
+mdp => jWxDh47Q
+droits => Aucun
+valide => Oui
+admin => Non

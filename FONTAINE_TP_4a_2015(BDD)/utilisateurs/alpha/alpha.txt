@@ -1,0 +1,10 @@
+nom => 
+prenom => 
+age => 
+mail => alpha@test.com
+mail2 => 
+login => alpha
+mdp => loup
+droits => Aucun
+valide => Non
+admin => Non

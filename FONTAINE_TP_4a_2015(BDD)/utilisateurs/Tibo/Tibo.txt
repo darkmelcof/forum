@@ -1,0 +1,10 @@
+nom => Nshape
+prenom => tibo
+age => 40
+mail => tibo@lol.com
+mail2 => kikoolol@mail.com
+login => Tibo
+mdp => a
+droits => Aucun
+valide => Oui
+admin => Oui

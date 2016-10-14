@@ -1,0 +1,10 @@
+nom => 
+prenom => 
+age => 
+mail => e
+mail2 => 
+login => Test
+mdp => t
+droits => Aucun
+valide => Non
+admin => Non
